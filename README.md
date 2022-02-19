@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page (HTML/CSS)
 
 ####  &nbsp; Pedro Henrique Moreira
 
