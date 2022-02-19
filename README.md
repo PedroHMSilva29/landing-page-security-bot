@@ -1,5 +1,4 @@
-# LANDING PAGE
-
+# Landing Page
 
 ####  &nbsp; Pedro Henrique Moreira
 
@@ -11,4 +10,4 @@
 
 ## References
 
- &nbsp; https://www.youtube.com/watch?v=llF6vD-RljE
+https://www.youtube.com/watch?v=llF6vD-RljE
